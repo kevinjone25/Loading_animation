@@ -1,5 +1,5 @@
 # Loading_animation
-Pire HTML + CSS animation!! In circular way
+Pure HTML + CSS animation!! In circular way
 
 ![image](https://user-images.githubusercontent.com/64208218/145090091-ae32bfda-2515-4469-be83-324e5d575406.png)
 
